@@ -1,0 +1,11 @@
+desc-mean_bold: 1.0
+desc-motion_bold: 0.9999999999999992
+desc-brain_bold: 1.0
+space-template_reg-default_desc-sm_bold: 0.9999999999999992
+space-template_reg-defaultNoGSR_desc-sm_bold: 1.0000000000000009
+space-template_reg-default_desc-preproc_bold: 1.0000000000000009
+reg-defaultNoGSR_desc-preproc_bold: 1.0
+reg-default_desc-sm4_bold: 1.0000000000000002
+space-template_reg-defaultNoGSR_desc-preproc_bold: 0.9999999999999996
+reg-defaultNoGSR_desc-sm4_bold: 1.0000000000000002
+reg-default_desc-preproc_bold: 1.0

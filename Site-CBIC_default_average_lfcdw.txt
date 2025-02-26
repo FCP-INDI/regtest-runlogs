@@ -1,0 +1,4 @@
+space-template_reg-defaultNoGSR_desc-smZstd_lfcdw: 1.0
+space-template_reg-defaultNoGSR_desc-zstd_lfcdw: 0.9999999999999996
+space-template_reg-default_desc-zstd_lfcdw: 1.0
+space-template_reg-default_desc-smZstd_lfcdw: 0.9999999999999993

@@ -1,0 +1,5 @@
+space-T1w_sbref: 1.0
+space-template_reg-default_sbref: 1.0
+space-template_reg-defaultNoGSR_sbref: 1.0
+reg-defaultNoGSR_sbref: 1.0
+reg-default_sbref: 1.0
