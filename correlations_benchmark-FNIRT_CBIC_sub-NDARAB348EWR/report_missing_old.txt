@@ -1,0 +1,1319 @@
+
+These outputs are in pipeline_1, and are either missing in pipeline_2 or were not picked up by this script's file parsing:
+
+
+label-WM_desc-preproc_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-WM_desc-preproc_mask.nii.gz
+
+label-WM_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-WM_mask.nii.gz
+
+label-WM_probseg:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-WM_probseg.nii.gz
+
+label-GM_desc-preproc_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-GM_desc-preproc_mask.nii.gz
+
+space-MNI152NLin6ASym_desc-preproc_T1w:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_space-MNI152NLin6ASym_desc-preproc_T1w.nii.gz
+
+desc-brain_T1w:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-brain_T1w.nii.gz
+
+space-MNI152NLin6ASym_desc-brain_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_space-MNI152NLin6ASym_desc-brain_mask.nii.gz
+
+label-GM_probseg:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-GM_probseg.nii.gz
+
+label-CSF_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-CSF_mask.nii.gz
+
+label-CSF_desc-preproc_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-CSF_desc-preproc_mask.nii.gz
+
+desc-head_T1w:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-head_T1w.nii.gz
+
+desc-reorient_T1w:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-reorient_T1w.nii.gz
+
+desc-brain_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-brain_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_desc-brain_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_desc-brain_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_desc-brain_mask.nii.gz
+
+label-GM_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-GM_mask.nii.gz
+
+space-MNI152NLin6ASym_desc-head_T1w:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_space-MNI152NLin6ASym_desc-head_T1w.nii.gz
+
+desc-preproc_T1w:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-preproc_T1w.nii.gz
+
+label-CSF_probseg:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-CSF_probseg.nii.gz
+
+desc-sm4_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_desc-sm4_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_desc-sm4_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_desc-sm4_bold.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PearsonNilearn2_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PearsonNilearn2_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PearsonNilearn2_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PearsonNilearn2_correlations.tsv
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd_alff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-1_desc-smZstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd_alff.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-zstd2_dcb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-zstd2_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd2_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd2_dcb.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-zstd3_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd3_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-zstd3_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd3_reho.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PartialNilearn3_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PartialNilearn3_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PartialNilearn3_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PartialNilearn3_correlations.tsv
+
+motion.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_motion.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_motion.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_motion.tsv
+
+space-MNI152NLin6ASym_reg-1_desc-zstd1_lfcdb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-zstd1_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd1_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd1_lfcdb.nii.gz
+
+reg-1_vmhc:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-1_vmhc.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-1_vmhc.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-1_vmhc.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd1_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-smZstd1_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd1_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd1_reho.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd_alff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-smZstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd_alff.nii.gz
+
+space-MNI152NLin6Sym_desc-sm_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6Sym_desc-sm_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6Sym_desc-sm_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6Sym_desc-sm_bold.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-zstd4_lfcdw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-1_desc-zstd4_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd4_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd4_lfcdw.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd5_ecw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd5_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-smZstd5_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd5_ecw.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-zstd2_dcw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd2_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd2_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-zstd2_dcw.nii.gz
+
+reg-1_desc-zstd1_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-1_desc-zstd1_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-1_desc-zstd1_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-1_desc-zstd1_reho.nii.gz
+
+reg-3_desc-zstd3_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-3_desc-zstd3_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-3_desc-zstd3_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-3_desc-zstd3_reho.nii.gz
+
+reg-2_desc-smZstd_falff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-2_desc-smZstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-2_desc-smZstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-2_desc-smZstd_falff.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-zstd6_ecb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-3_desc-zstd6_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd6_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd6_ecb.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-zstd1_dcw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd1_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-zstd1_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd1_dcw.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd5_lfcdb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-smZstd5_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd5_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd5_lfcdb.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PartialNilearn4_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PartialNilearn4_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PartialNilearn4_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PartialNilearn4_correlations.tsv
+
+reg-2_desc-smZstd5_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-2_desc-smZstd5_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-2_desc-smZstd5_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-2_desc-smZstd5_reho.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-zstd3_ecb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd3_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-zstd3_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd3_ecb.nii.gz
+
+atlas-rois_reg-2_desc-Voxel5_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_reg-2_desc-Voxel5_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_reg-2_desc-Voxel5_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_reg-2_desc-Voxel5_timeseries.1D
+
+reg-2_desc-confounds_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-2_desc-confounds_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-2_desc-confounds_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-2_desc-confounds_timeseries.1D
+
+reg-2_desc-preproc2_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-2_desc-preproc2_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-2_desc-preproc2_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-2_desc-preproc2_bold.nii.gz
+
+reg-3_desc-sm4_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-3_desc-sm4_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-3_desc-sm4_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-3_desc-sm4_bold.nii.gz
+
+desc-mean_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_desc-mean_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_desc-mean_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_desc-mean_bold.nii.gz
+
+atlas-rois_reg-2_desc-SpatReg2_timeseries.txt:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_reg-2_desc-SpatReg2_timeseries.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_reg-2_desc-SpatReg2_timeseries.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_reg-2_desc-SpatReg2_timeseries.txt
+
+atlas-rois_space-MNI152NLin6ASym_reg-2_desc-ndmg2_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-ndmg2_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-ndmg2_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-ndmg2_correlations.csv
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd6_ecb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-3_desc-smZstd6_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd6_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd6_ecb.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd6_dcw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-smZstd6_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd6_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd6_dcw.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd4_ecb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd4_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-smZstd4_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd4_ecb.nii.gz
+
+reg-2_desc-smZstd2_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-2_desc-smZstd2_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-2_desc-smZstd2_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-2_desc-smZstd2_reho.nii.gz
+
+reg-1_desc-preproc4_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-1_desc-preproc4_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-1_desc-preproc4_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-1_desc-preproc4_bold.nii.gz
+
+reg-1_desc-zstd_falff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-1_desc-zstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-1_desc-zstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-1_desc-zstd_falff.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd3_ecb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-3_desc-smZstd3_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd3_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd3_ecb.nii.gz
+
+vmhc:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_vmhc.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_vmhc.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_vmhc.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-zstd1_dcb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd1_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-1_desc-zstd1_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd1_dcb.nii.gz
+
+reg-2_desc-zstd_alff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-2_desc-zstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-2_desc-zstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-2_desc-zstd_alff.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-zstd1_lfcdw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd1_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd1_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-zstd1_lfcdw.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-zstd3_ecw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-zstd3_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd3_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd3_ecw.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd2_lfcdw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-smZstd2_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd2_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd2_lfcdw.nii.gz
+
+space-MNI152NLin6Sym_reg-3_desc-sm_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6Sym_reg-3_desc-sm_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6Sym_reg-3_desc-sm_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6Sym_reg-3_desc-sm_bold.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd4_dcw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-1_desc-smZstd4_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd4_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd4_dcw.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd2_lfcdb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd2_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-smZstd2_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd2_lfcdb.nii.gz
+
+reg-3_desc-smZstd6_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-3_desc-smZstd6_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-3_desc-smZstd6_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-3_desc-smZstd6_reho.nii.gz
+
+reg-1_desc-zstd_alff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-1_desc-zstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-1_desc-zstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-1_desc-zstd_alff.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PartialNilearn6_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PartialNilearn6_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PartialNilearn6_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PartialNilearn6_correlations.tsv
+
+reg-2_desc-sm4_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-2_desc-sm4_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-2_desc-sm4_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-2_desc-sm4_bold.nii.gz
+
+reg-3_vmhc:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-3_vmhc.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-3_vmhc.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-3_vmhc.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd3_ecw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd3_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-smZstd3_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd3_ecw.nii.gz
+
+reg-2_desc-preproc5_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-2_desc-preproc5_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-2_desc-preproc5_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-2_desc-preproc5_bold.nii.gz
+
+reg-1_desc-smZstd1_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-1_desc-smZstd1_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-1_desc-smZstd1_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-1_desc-smZstd1_reho.nii.gz
+
+reg-3_desc-zstd6_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-3_desc-zstd6_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-3_desc-zstd6_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-3_desc-zstd6_reho.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-preproc2_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-preproc2_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-preproc2_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-preproc2_bold.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-zstd2_ecw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd2_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-zstd2_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd2_ecw.nii.gz
+
+reg-3_desc-boldSnr6_quality.txt:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-3_desc-boldSnr6_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-3_desc-boldSnr6_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-3_desc-boldSnr6_quality.txt
+
+space-MNI152NLin6ASym_reg-3_desc-zstd3_dcw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-zstd3_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd3_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd3_dcw.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-1_desc-Mean4_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-Mean4_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-Mean4_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-Mean4_timeseries.1D
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd3_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd3_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-3_desc-smZstd3_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd3_reho.nii.gz
+
+atlas-rois_reg-3_desc-SpatReg3_timeseries.txt:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_reg-3_desc-SpatReg3_timeseries.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_reg-3_desc-SpatReg3_timeseries.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_reg-3_desc-SpatReg3_timeseries.txt
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd4_dcb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-1_desc-smZstd4_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd4_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd4_dcb.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd4_lfcdw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd4_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd4_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-smZstd4_lfcdw.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd2_ecb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-smZstd2_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd2_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd2_ecb.nii.gz
+
+reg-2_desc-zstd5_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-2_desc-zstd5_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-2_desc-zstd5_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-2_desc-zstd5_reho.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-zstd2_ecb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd2_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-zstd2_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd2_ecb.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd1_dcb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-smZstd1_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd1_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd1_dcb.nii.gz
+
+reg-3_desc-smZstd3_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-3_desc-smZstd3_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-3_desc-smZstd3_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-3_desc-smZstd3_reho.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd_falff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-smZstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd_falff.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PearsonNilearn5_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PearsonNilearn5_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PearsonNilearn5_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PearsonNilearn5_correlations.tsv
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd1_ecb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-1_desc-smZstd1_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd1_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd1_ecb.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-3_desc-Mean3_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-Mean3_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-Mean3_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-Mean3_timeseries.1D
+
+desc-brain_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_desc-brain_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_desc-brain_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_desc-brain_bold.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd5_dcw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-smZstd5_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd5_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd5_dcw.nii.gz
+
+space-MNI152NLin6Sym_reg-2_desc-sm_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6Sym_reg-2_desc-sm_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6Sym_reg-2_desc-sm_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6Sym_reg-2_desc-sm_bold.nii.gz
+
+space-MNI152NLin6ASym_res-2mm_desc-bold_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_res-2mm_desc-bold_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_res-2mm_desc-bold_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_res-2mm_desc-bold_mask.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-2_desc-Mean5_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-Mean5_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-Mean5_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-Mean5_timeseries.1D
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd_alff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-smZstd_alff.nii.gz
+
+reg-2_desc-zstd_falff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-2_desc-zstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-2_desc-zstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-2_desc-zstd_falff.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-zstd6_ecw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-zstd6_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd6_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd6_ecw.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PearsonNilearn1_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PearsonNilearn1_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PearsonNilearn1_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PearsonNilearn1_correlations.tsv
+
+reg-1_desc-confounds_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-1_desc-confounds_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-1_desc-confounds_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-1_desc-confounds_timeseries.1D
+
+reg-1_desc-preproc1_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-1_desc-preproc1_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-1_desc-preproc1_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-1_desc-preproc1_bold.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd2_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd2_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd2_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-smZstd2_reho.nii.gz
+
+atlas-rois_reg-1_desc-SpatReg4_timeseries.txt:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_reg-1_desc-SpatReg4_timeseries.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_reg-1_desc-SpatReg4_timeseries.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_reg-1_desc-SpatReg4_timeseries.txt
+
+space-MNI152NLin6ASym_reg-2_desc-zstd5_lfcdw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-zstd5_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd5_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd5_lfcdw.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-zstd6_dcb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-zstd6_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd6_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd6_dcb.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd4_ecw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-1_desc-smZstd4_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd4_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd4_ecw.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-zstd3_lfcdb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd3_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd3_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-zstd3_lfcdb.nii.gz
+
+atlas-rois_reg-2_desc-Voxel2_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_reg-2_desc-Voxel2_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_reg-2_desc-Voxel2_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_reg-2_desc-Voxel2_timeseries.1D
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd5_dcb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd5_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd5_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-smZstd5_dcb.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-zstd_alff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-zstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd_alff.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PearsonNilearn6_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PearsonNilearn6_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PearsonNilearn6_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PearsonNilearn6_correlations.tsv
+
+space-MNI152NLin6ASym_reg-3_desc-zstd6_lfcdb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-3_desc-zstd6_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd6_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd6_lfcdb.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd2_dcb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-smZstd2_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd2_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd2_dcb.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd5_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-smZstd5_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd5_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd5_reho.nii.gz
+
+reg-1_desc-sm4_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-1_desc-sm4_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-1_desc-sm4_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-1_desc-sm4_bold.nii.gz
+
+space-MNI152NLin6ASym_sbref:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_sbref.nii.gz
+
+desc-summary_motion.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_desc-summary_motion.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_desc-summary_motion.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_desc-summary_motion.tsv
+
+sbref:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_sbref.nii.gz
+
+atlas-rois_reg-1_desc-Voxel1_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_reg-1_desc-Voxel1_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_reg-1_desc-Voxel1_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_reg-1_desc-Voxel1_timeseries.1D
+
+reg-1_desc-zstd4_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-1_desc-zstd4_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-1_desc-zstd4_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-1_desc-zstd4_reho.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PartialNilearn1_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PartialNilearn1_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PartialNilearn1_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PartialNilearn1_correlations.tsv
+
+reg-3_desc-zstd_falff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-3_desc-zstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-3_desc-zstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-3_desc-zstd_falff.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-zstd6_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd6_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-3_desc-zstd6_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd6_reho.nii.gz
+
+reg-1_desc-boldSnr4_quality.txt:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-1_desc-boldSnr4_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-1_desc-boldSnr4_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-1_desc-boldSnr4_quality.txt
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd_falff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-1_desc-smZstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd_falff.nii.gz
+
+desc-movementParameters_motion.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_desc-movementParameters_motion.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_desc-movementParameters_motion.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_desc-movementParameters_motion.1D
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd2_dcw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-smZstd2_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd2_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd2_dcw.nii.gz
+
+reg-2_desc-boldSnr5_quality.txt:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-2_desc-boldSnr5_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-2_desc-boldSnr5_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-2_desc-boldSnr5_quality.txt
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd6_lfcdb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd6_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-smZstd6_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd6_lfcdb.nii.gz
+
+reg-2_desc-zstd2_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-2_desc-zstd2_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-2_desc-zstd2_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-2_desc-zstd2_reho.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-1_desc-Mean1_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-Mean1_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-Mean1_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-Mean1_timeseries.1D
+
+space-MNI152NLin6ASym_reg-1_desc-zstd4_dcb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd4_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-zstd4_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd4_dcb.nii.gz
+
+atlas-rois_reg-3_desc-Voxel3_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_reg-3_desc-Voxel3_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_reg-3_desc-Voxel3_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_reg-3_desc-Voxel3_timeseries.1D
+
+space-MNI152NLin6ASym_reg-1_desc-zstd4_dcw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-1_desc-zstd4_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd4_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd4_dcw.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-zstd3_dcb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-3_desc-zstd3_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd3_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd3_dcb.nii.gz
+
+reg-1_desc-boldSnr1_quality.txt:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-1_desc-boldSnr1_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-1_desc-boldSnr1_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-1_desc-boldSnr1_quality.txt
+
+space-MNI152NLin6ASym_reg-2_desc-zstd2_lfcdb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-zstd2_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd2_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd2_lfcdb.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-zstd5_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-zstd5_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd5_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd5_reho.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-zstd_falff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-zstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd_falff.nii.gz
+
+space-T1w_sbref:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-T1w_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-T1w_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-T1w_sbref.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-zstd_alff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-zstd_alff.nii.gz
+
+reg-2_desc-boldSnr2_quality.txt:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-2_desc-boldSnr2_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-2_desc-boldSnr2_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-2_desc-boldSnr2_quality.txt
+
+atlas-rois_reg-3_desc-Voxel6_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_reg-3_desc-Voxel6_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_reg-3_desc-Voxel6_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_reg-3_desc-Voxel6_timeseries.1D
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd3_dcw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-smZstd3_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd3_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd3_dcw.nii.gz
+
+reg-3_desc-confounds_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-3_desc-confounds_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-3_desc-confounds_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-3_desc-confounds_timeseries.1D
+
+atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PartialNilearn2_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PartialNilearn2_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PartialNilearn2_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PartialNilearn2_correlations.tsv
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd1_lfcdw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd1_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-smZstd1_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd1_lfcdw.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd1_lfcdb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd1_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd1_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-smZstd1_lfcdb.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-zstd2_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-zstd2_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd2_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd2_reho.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-zstd1_ecb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd1_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-zstd1_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd1_ecb.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-zstd4_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-zstd4_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd4_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd4_reho.nii.gz
+
+reg-3_desc-zstd_alff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-3_desc-zstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-3_desc-zstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-3_desc-zstd_alff.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd5_lfcdw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-smZstd5_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd5_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd5_lfcdw.nii.gz
+
+reg-1_desc-smZstd_falff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-1_desc-smZstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-1_desc-smZstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-1_desc-smZstd_falff.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd4_lfcdb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-1_desc-smZstd4_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd4_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd4_lfcdb.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-zstd5_ecb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd5_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-zstd5_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd5_ecb.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-2_desc-Mean2_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-Mean2_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-Mean2_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-Mean2_timeseries.1D
+
+reg-3_desc-preproc3_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-3_desc-preproc3_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-3_desc-preproc3_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-3_desc-preproc3_bold.nii.gz
+
+reg-3_desc-boldSnr3_quality.txt:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-3_desc-boldSnr3_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-3_desc-boldSnr3_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-3_desc-boldSnr3_quality.txt
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd1_dcw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd1_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-smZstd1_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd1_dcw.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd2_ecw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-smZstd2_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd2_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd2_ecw.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd6_lfcdw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd6_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-3_desc-smZstd6_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd6_lfcdw.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-preproc6_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-3_desc-preproc6_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-preproc6_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-preproc6_bold.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-zstd5_lfcdb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd5_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-zstd5_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd5_lfcdb.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-preproc5_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-preproc5_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-preproc5_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-preproc5_bold.nii.gz
+
+reg-1_desc-smZstd_alff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-1_desc-smZstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-1_desc-smZstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-1_desc-smZstd_alff.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd3_lfcdw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-smZstd3_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd3_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd3_lfcdw.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-zstd5_ecw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd5_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-zstd5_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd5_ecw.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd1_ecw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-smZstd1_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd1_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd1_ecw.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd6_dcb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-3_desc-smZstd6_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd6_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd6_dcb.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-zstd1_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-zstd1_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd1_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd1_reho.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-zstd3_lfcdw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd3_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-zstd3_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd3_lfcdw.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-preproc4_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-preproc4_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-preproc4_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-1_desc-preproc4_bold.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-zstd5_dcw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-zstd5_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd5_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd5_dcw.nii.gz
+
+reg-2_vmhc:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-2_vmhc.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-2_vmhc.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-2_vmhc.nii.gz
+
+desc-motion_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_desc-motion_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_desc-motion_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_desc-motion_bold.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-zstd4_lfcdb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd4_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-zstd4_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd4_lfcdb.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd3_lfcdb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-3_desc-smZstd3_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd3_lfcdb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd3_lfcdb.nii.gz
+
+reg-1_desc-smZstd4_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-1_desc-smZstd4_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-1_desc-smZstd4_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-1_desc-smZstd4_reho.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-3_desc-Mean6_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-Mean6_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-Mean6_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-Mean6_timeseries.1D
+
+reg-3_desc-smZstd_alff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-3_desc-smZstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-3_desc-smZstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_reg-3_desc-smZstd_alff.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-preproc1_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-preproc1_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-preproc1_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-preproc1_bold.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-zstd6_dcw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-zstd6_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd6_dcw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd6_dcw.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-zstd4_ecw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd4_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-1_desc-zstd4_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd4_ecw.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd6_ecw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd6_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd6_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-smZstd6_ecw.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-3_desc-ndmg6_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-ndmg6_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-ndmg6_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-ndmg6_correlations.csv
+
+space-MNI152NLin6ASym_reg-2_desc-zstd5_dcb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-zstd5_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd5_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd5_dcb.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-preproc3_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-preproc3_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-preproc3_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-3_desc-preproc3_bold.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PearsonNilearn3_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PearsonNilearn3_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PearsonNilearn3_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-PearsonNilearn3_correlations.tsv
+
+reg-3_desc-smZstd_falff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-3_desc-smZstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-3_desc-smZstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-3_desc-smZstd_falff.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-zstd4_ecb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd4_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd4_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-zstd4_ecb.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-zstd1_ecw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-1_desc-zstd1_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd1_ecw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd1_ecw.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-3_desc-ndmg3_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-ndmg3_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-ndmg3_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-3_desc-ndmg3_correlations.csv
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd3_dcb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd3_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-smZstd3_dcb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd3_dcb.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-zstd6_lfcdw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-zstd6_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd6_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd6_lfcdw.nii.gz
+
+space-MNI152NLin6ASym_reg-1_desc-zstd_alff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-zstd_alff.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-smZstd5_ecb:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-smZstd5_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-2_desc-smZstd5_ecb.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-smZstd5_ecb.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-2_desc-ndmg5_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-ndmg5_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-ndmg5_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-ndmg5_correlations.csv
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd_falff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-3_desc-smZstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd_falff.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-smZstd6_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-smZstd6_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-smZstd6_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-smZstd6_reho.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PartialNilearn5_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PartialNilearn5_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PartialNilearn5_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-2_desc-PartialNilearn5_correlations.tsv
+
+space-MNI152NLin6ASym_reg-1_desc-zstd_falff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-zstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-zstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-zstd_falff.nii.gz
+
+space-MNI152NLin6ASym_reg-3_desc-zstd_falff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-zstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-3_desc-zstd_falff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-zstd_falff.nii.gz
+
+space-MNI152NLin6ASym_reg-2_desc-zstd2_lfcdw:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-zstd2_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-zstd2_lfcdw.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-zstd2_lfcdw.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-1_desc-ndmg4_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-ndmg4_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-ndmg4_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-ndmg4_correlations.csv
+
+atlas-rois_space-MNI152NLin6ASym_reg-1_desc-ndmg1_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-ndmg1_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-ndmg1_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-ndmg1_correlations.csv
+
+atlas-rois_reg-1_desc-Voxel4_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_reg-1_desc-Voxel4_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_reg-1_desc-Voxel4_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_reg-1_desc-Voxel4_timeseries.1D
+
+atlas-rois_reg-1_desc-SpatReg1_timeseries.txt:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_reg-1_desc-SpatReg1_timeseries.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_reg-1_desc-SpatReg1_timeseries.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_reg-1_desc-SpatReg1_timeseries.txt
+
+space-MNI152NLin6ASym_desc-bold_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_desc-bold_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_desc-bold_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_desc-bold_mask.nii.gz
+
+atlas-rois_reg-3_desc-SpatReg6_timeseries.txt:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_reg-3_desc-SpatReg6_timeseries.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-rois_reg-3_desc-SpatReg6_timeseries.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_reg-3_desc-SpatReg6_timeseries.txt
+
+space-MNI152NLin6ASym_reg-1_desc-smZstd4_reho:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-1_desc-smZstd4_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-smZstd4_reho.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-smZstd4_reho.nii.gz
+
+atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PearsonNilearn4_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PearsonNilearn4_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PearsonNilearn4_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_space-MNI152NLin6ASym_reg-1_desc-PearsonNilearn4_correlations.tsv
+
+reg-3_desc-preproc6_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-3_desc-preproc6_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-3_desc-preproc6_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-3_desc-preproc6_bold.nii.gz
+
+atlas-rois_reg-2_desc-SpatReg5_timeseries.txt:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-rois_reg-2_desc-SpatReg5_timeseries.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-rois_reg-2_desc-SpatReg5_timeseries.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-rois_reg-2_desc-SpatReg5_timeseries.txt
+
+reg-2_desc-smZstd_alff:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_reg-2_desc-smZstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_reg-2_desc-smZstd_alff.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_reg-2_desc-smZstd_alff.nii.gz
+
+space-MNI152NLin6Sym_reg-1_desc-sm_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6Sym_reg-1_desc-sm_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6Sym_reg-1_desc-sm_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6Sym_reg-1_desc-sm_bold.nii.gz
+
+These outputs are in pipeline_2, and missing in pipeline_1 or were not picked up by this script's file parsing:
+
+
+dvars.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_dvars.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_dvars.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_dvars.1D
+
+space-MNI152NLin6ASym_reg-3_desc-xcp3_quality.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-xcp3_quality.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-3_desc-xcp3_quality.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-xcp3_quality.tsv
+
+space-MNI152NLin6ASym_reg-2_desc-xcp2_quality.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-xcp2_quality.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-xcp2_quality.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-xcp2_quality.tsv
+
+space-MNI152NLin6ASym_reg-1_desc-xcp4_quality.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-xcp4_quality.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-xcp4_quality.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-1_desc-xcp4_quality.tsv
+
+space-MNI152NLin6ASym_reg-1_desc-xcp1_quality.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-1_desc-xcp1_quality.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-1_desc-xcp1_quality.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-1_desc-xcp1_quality.tsv
+
+space-MNI152NLin6ASym_reg-2_desc-xcp5_quality.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_reg-2_desc-xcp5_quality.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-2_desc-xcp5_quality.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-2_desc-xcp5_quality.tsv
+
+space-MNI152NLin6ASym_reg-3_desc-xcp6_quality.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_reg-3_desc-xcp6_quality.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_reg-3_desc-xcp6_quality.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/benchmark-FNIRT/Site-CBIC/sub-NDARAB348EWR/output/pipeline_benchmark-FNIRT/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_reg-3_desc-xcp6_quality.tsv

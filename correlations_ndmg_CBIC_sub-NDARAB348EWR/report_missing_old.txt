@@ -1,0 +1,633 @@
+
+These outputs are in pipeline_1, and are either missing in pipeline_2 or were not picked up by this script's file parsing:
+
+
+label-WM_desc-preproc_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-WM_desc-preproc_mask.nii.gz
+
+label-WM_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-WM_mask.nii.gz
+
+label-WM_probseg:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-WM_probseg.nii.gz
+
+label-GM_desc-preproc_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-GM_desc-preproc_mask.nii.gz
+
+space-MNI152NLin6ASym_desc-preproc_T1w:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_space-MNI152NLin6ASym_desc-preproc_T1w.nii.gz
+
+space-MNI152NLin6ASym_desc-brain_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_space-MNI152NLin6ASym_desc-brain_mask.nii.gz
+
+label-GM_probseg:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-GM_probseg.nii.gz
+
+label-CSF_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-CSF_mask.nii.gz
+
+label-CSF_desc-preproc_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-CSF_desc-preproc_mask.nii.gz
+
+desc-head_T1w:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-head_T1w.nii.gz
+
+desc-brain_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-brain_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_desc-brain_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_desc-brain_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_desc-brain_mask.nii.gz
+
+label-GM_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-GM_mask.nii.gz
+
+space-MNI152NLin6ASym_desc-head_T1w:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_space-MNI152NLin6ASym_desc-head_T1w.nii.gz
+
+desc-preproc_T1w:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_desc-preproc_T1w.nii.gz
+
+label-CSF_probseg:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/anat/sub-NDARAB348EWR_ses-1_label-CSF_probseg.nii.gz
+
+atlas-DS01216_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS01216_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS01216_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS01216_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+motion.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_motion.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_motion.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_motion.tsv
+
+atlas-HOCPATh25_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-HOCPATh25_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HOCPATh25_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-HOCPATh25_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-DKT_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DKT_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DKT_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DKT_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-DS00096_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00096_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00096_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00096_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-JHU_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-JHU_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-JHU_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-JHU_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+atlas-DS00096_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00096_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00096_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00096_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+atlas-DS00071_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00071_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00071_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00071_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-CPAC200_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-CPAC200_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-CPAC200_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-CPAC200_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-DS00446_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00446_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00446_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00446_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-DS00140_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00140_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00140_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00140_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+atlas-DS00583_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00583_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00583_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00583_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-DS00350_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00350_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00350_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00350_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-DS00195_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00195_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00195_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00195_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-DS00108_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00108_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00108_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00108_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+atlas-DKT_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DKT_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DKT_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DKT_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-DS00350_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00350_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00350_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00350_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+desc-mean_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_desc-mean_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_desc-mean_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_desc-mean_bold.nii.gz
+
+atlas-DS00278_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00278_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00278_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00278_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-DS00278_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00278_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00278_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00278_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+atlas-DS00108_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00108_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00108_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00108_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+space-MNI152NLin6ASym_desc-preproc_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_desc-preproc_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_desc-preproc_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_desc-preproc_bold.nii.gz
+
+atlas-DS01216_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS01216_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS01216_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS01216_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+desc-boldSnr_quality.txt:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_desc-boldSnr_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_desc-boldSnr_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_desc-boldSnr_quality.txt
+
+atlas-DS00096_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00096_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00096_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00096_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-DS00583_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00583_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00583_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00583_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-DS00140_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00140_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00140_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00140_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-HOCPATh25_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-HOCPATh25_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-HOCPATh25_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-HOCPATh25_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+atlas-DS00833_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00833_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00833_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00833_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+desc-preproc_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_desc-preproc_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_desc-preproc_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_desc-preproc_bold.nii.gz
+
+atlas-DKT_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DKT_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DKT_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DKT_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+atlas-Brodmann_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-Brodmann_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Brodmann_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-Brodmann_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+atlas-DS00071_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00071_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00071_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00071_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-DS00140_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00140_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00140_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00140_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+atlas-AAL_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-AAL_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-AAL_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-AAL_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+atlas-HOCPATh25_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-HOCPATh25_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-HOCPATh25_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-HOCPATh25_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-DKT_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DKT_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DKT_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DKT_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-DS00140_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00140_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00140_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00140_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-JHU_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-JHU_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-JHU_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-JHU_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-JHU_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-JHU_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-JHU_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-JHU_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-JHU_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-JHU_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-JHU_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-JHU_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+space-MNI152NLin6ASym_res-2mm_desc-bold_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_res-2mm_desc-bold_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_res-2mm_desc-bold_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_res-2mm_desc-bold_mask.nii.gz
+
+atlas-DS00583_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00583_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00583_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00583_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+atlas-DS00108_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00108_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00108_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00108_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-Brodmann_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-Brodmann_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-Brodmann_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Brodmann_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-DS00195_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00195_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00195_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00195_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-HOCPATh25_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-HOCPATh25_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-HOCPATh25_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-HOCPATh25_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-Desikan_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-Desikan_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-Desikan_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-Desikan_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-Brodmann_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-Brodmann_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-Brodmann_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-Brodmann_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-DS00071_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00071_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00071_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00071_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+atlas-DS00195_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00195_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00195_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00195_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+space-MNI152NLin6ASym_sbref:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_sbref.nii.gz
+
+desc-summary_motion.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_desc-summary_motion.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_desc-summary_motion.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_desc-summary_motion.tsv
+
+atlas-HOSPATh25_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-HOSPATh25_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-HOSPATh25_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-HOSPATh25_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+sbref:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_sbref.nii.gz
+
+atlas-HOSPATh25_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-HOSPATh25_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-HOSPATh25_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-HOSPATh25_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+desc-movementParameters_motion.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_desc-movementParameters_motion.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_desc-movementParameters_motion.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_desc-movementParameters_motion.1D
+
+atlas-DS00446_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00446_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00446_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00446_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-CPAC200_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-CPAC200_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-CPAC200_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-CPAC200_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-DS00108_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00108_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00108_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00108_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-AAL_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-AAL_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-AAL_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-AAL_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-CPAC200_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-CPAC200_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-CPAC200_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-CPAC200_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-HOSPATh25_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HOSPATh25_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-HOSPATh25_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-HOSPATh25_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+space-T1w_sbref:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-T1w_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-T1w_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-T1w_sbref.nii.gz
+
+atlas-DS00278_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00278_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00278_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00278_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-DS00833_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00833_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00833_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00833_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-Desikan_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-Desikan_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-Desikan_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-Desikan_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+atlas-HOSPATh25_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-HOSPATh25_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-HOSPATh25_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-HOSPATh25_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-Brodmann_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-Brodmann_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Brodmann_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-Brodmann_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-DS00096_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00096_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00096_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00096_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-DS00833_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00833_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00833_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00833_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-AAL_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-AAL_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-AAL_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-AAL_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-DS00071_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00071_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00071_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00071_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-DS00583_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00583_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00583_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00583_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-DS00350_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00350_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00350_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00350_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-DS01216_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS01216_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS01216_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS01216_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-DS00446_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00446_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00446_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00446_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+atlas-DS00278_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00278_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00278_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00278_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-Desikan_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-Desikan_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-Desikan_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-Desikan_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-PrincetonvisualTop_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-Desikan_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-Desikan_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-Desikan_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-Desikan_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-CPAC200_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-CPAC200_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-CPAC200_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-CPAC200_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+desc-confounds_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_desc-confounds_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_desc-confounds_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_desc-confounds_timeseries.1D
+
+atlas-DS01216_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS01216_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS01216_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS01216_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+atlas-DS00195_space-MNI152NLin6ASym_desc-ndmg_correlations.csv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00195_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00195_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00195_space-MNI152NLin6ASym_desc-ndmg_correlations.csv
+
+atlas-AAL_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-AAL_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-AAL_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-AAL_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+atlas-DS00446_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00446_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_atlas-DS00446_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00446_space-MNI152NLin6ASym_desc-PartialNilearn_correlations.tsv
+
+space-MNI152NLin6ASym_desc-bold_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieTP_space-MNI152NLin6ASym_desc-bold_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_desc-bold_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_desc-bold_mask.nii.gz
+
+atlas-DS00833_space-MNI152NLin6ASym_desc-Mean_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00833_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00833_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00833_space-MNI152NLin6ASym_desc-Mean_timeseries.1D
+
+atlas-DS00350_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_atlas-DS00350_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_atlas-DS00350_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_atlas-DS00350_space-MNI152NLin6ASym_desc-PearsonNilearn_correlations.tsv
+
+These outputs are in pipeline_2, and missing in pipeline_1 or were not picked up by this script's file parsing:
+
+
+space-MNI152NLin6ASym_desc-xcp_quality.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-movieDM_space-MNI152NLin6ASym_desc-xcp_quality.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-1_space-MNI152NLin6ASym_desc-xcp_quality.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.8/2025-06-20/ndmg/Site-CBIC/sub-NDARAB348EWR/output/pipeline_ndmg/sub-NDARAB348EWR/ses-1/func/sub-NDARAB348EWR_ses-1_task-peer_run-3_space-MNI152NLin6ASym_desc-xcp_quality.tsv

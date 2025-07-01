@@ -1,0 +1,170 @@
+
+These outputs are in pipeline_1, and are either missing in pipeline_2 or were not picked up by this script's file parsing:
+
+
+label-CSF_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-CSF_mask.nii.gz
+
+space-MNI152NLin6ASym_desc-brain_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_space-MNI152NLin6ASym_desc-brain_mask.nii.gz
+
+label-CSF_probseg:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-CSF_probseg.nii.gz
+
+label-GM_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-GM_mask.nii.gz
+
+space-MNI152NLin6ASym_desc-head_T1w:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_space-MNI152NLin6ASym_desc-head_T1w.nii.gz
+
+desc-preproc_T1w:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_desc-preproc_T1w.nii.gz
+
+label-WM_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-WM_mask.nii.gz
+
+space-MNI152NLin6ASym_desc-preproc_T1w:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_space-MNI152NLin6ASym_desc-preproc_T1w.nii.gz
+
+label-GM_probseg:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-GM_probseg.nii.gz
+
+space-MNI152NLin6ASym_label-GM_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_space-MNI152NLin6ASym_label-GM_mask.nii.gz
+
+space-MNI152NLin6ASym_label-CSF_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_space-MNI152NLin6ASym_label-CSF_mask.nii.gz
+
+label-GM_desc-preproc_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-GM_desc-preproc_mask.nii.gz
+
+desc-head_T1w:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_desc-head_T1w.nii.gz
+
+label-WM_probseg:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-WM_probseg.nii.gz
+
+space-MNI152NLin6ASym_label-WM_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_space-MNI152NLin6ASym_label-WM_mask.nii.gz
+
+label-CSF_desc-preproc_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-CSF_desc-preproc_mask.nii.gz
+
+label-WM_desc-preproc_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_label-WM_desc-preproc_mask.nii.gz
+
+desc-brain_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/anat/sub-NDARAB458VK9_ses-1_desc-brain_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-2_desc-brain_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-1_desc-brain_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-3_desc-brain_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_desc-brain_mask.nii.gz
+
+desc-movementParameters_motion.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-1_desc-movementParameters_motion.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-3_desc-movementParameters_motion.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-2_desc-movementParameters_motion.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieDM_desc-movementParameters_motion.1D
+
+space-MNI152NLin6ASym_desc-bold_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-1_space-MNI152NLin6ASym_desc-bold_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-3_space-MNI152NLin6ASym_desc-bold_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieDM_space-MNI152NLin6ASym_desc-bold_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-2_space-MNI152NLin6ASym_desc-bold_mask.nii.gz
+
+desc-preproc_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-3_desc-preproc_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-2_desc-preproc_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-1_desc-preproc_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_desc-preproc_bold.nii.gz
+
+desc-boldSnr_quality.txt:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-2_desc-boldSnr_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_desc-boldSnr_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-3_desc-boldSnr_quality.txt
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-1_desc-boldSnr_quality.txt
+
+desc-mean_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_desc-mean_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-1_desc-mean_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-3_desc-mean_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-2_desc-mean_bold.nii.gz
+
+sbref:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieDM_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-3_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-1_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-2_sbref.nii.gz
+
+motion.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-1_motion.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-2_motion.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-3_motion.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieDM_motion.tsv
+
+space-MNI152NLin6ASym_res-3mm_desc-bold_mask:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-1_space-MNI152NLin6ASym_res-3mm_desc-bold_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieDM_space-MNI152NLin6ASym_res-3mm_desc-bold_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-3_space-MNI152NLin6ASym_res-3mm_desc-bold_mask.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-2_space-MNI152NLin6ASym_res-3mm_desc-bold_mask.nii.gz
+
+desc-summary_motion.tsv:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-1_desc-summary_motion.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-3_desc-summary_motion.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieDM_desc-summary_motion.tsv
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-2_desc-summary_motion.tsv
+
+space-MNI152NLin6ASym_desc-preproc_bold:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-1_space-MNI152NLin6ASym_desc-preproc_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_space-MNI152NLin6ASym_desc-preproc_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-2_space-MNI152NLin6ASym_desc-preproc_bold.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-3_space-MNI152NLin6ASym_desc-preproc_bold.nii.gz
+
+desc-confounds_timeseries.1D:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-1_desc-confounds_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-2_desc-confounds_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_desc-confounds_timeseries.1D
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-3_desc-confounds_timeseries.1D
+
+space-T1w_sbref:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieTP_space-T1w_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-3_space-T1w_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-1_space-T1w_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-2_space-T1w_sbref.nii.gz
+
+space-MNI152NLin6ASym_sbref:
+
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-1_space-MNI152NLin6ASym_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-movieDM_space-MNI152NLin6ASym_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-rest_run-2_space-MNI152NLin6ASym_sbref.nii.gz
+    /ocean/projects/med250004p/shared/regression_outputs_v1.8.7/ccs-options/Site-CBIC/sub-NDARAB458VK9/output/pipeline_cpac_ccs-options/sub-NDARAB458VK9/ses-1/func/sub-NDARAB458VK9_ses-1_task-peer_run-3_space-MNI152NLin6ASym_sbref.nii.gz
